@@ -2143,7 +2143,7 @@ input, select, textarea {
 /* Footer */
 
 	footer {
-  background-color: #333;
+  background-color: transparent;
   padding: 1rem;
 }
 
